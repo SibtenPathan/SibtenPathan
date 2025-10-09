@@ -13,7 +13,6 @@
 ---
 
 ### 🛠 Tech & Tools
-### 🛠 Tech & Tools
 <p align="center">
   <a href="https://www.salesforce.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" width="45" height="45" alt="Salesforce" />
